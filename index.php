@@ -47,7 +47,7 @@
       </div>
       <div class="col-md-10">
         <p id="change-text"></p>
-        <audio id="speech" src="http://www.smartecsolutions.com/public/file1.mp3" controls="controls" autoplay="autoplay">Your browser does not support the audio element.</audio>
+        <audio id="speech" src="http://www.smartecsolutions.com/public/file1.mp3"></audio>
         oelo
       </div>
     </div>
